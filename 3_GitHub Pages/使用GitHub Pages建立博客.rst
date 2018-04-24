@@ -26,16 +26,18 @@ User or organization site (个人或企业网站)
 
 
 
-你可以参考 `GitHub Pages官方文档<https://pages.github.com/>`_，或参照以下步骤：
+你可以参考 `GitHub Pages官方文档 <https://pages.github.com/>`_，或参照以下步骤：
 
 1. 在 GitHub 上建立仓库
+>>>>>>>>>>>>>>>>>>>>>>>
 
-进入你的 `GitHub<https://github.com/>`_, 创建新的仓库 (repo)，仓库名称为`username.github.io`。
+进入你的 `GitHub <https://github.com/>`_, 创建新的仓库 (repo)，仓库名称为`username.github.io`。
 
 *每个用户名下面只能建立一个隶属于个人的page*
 
 
 2. 将线上仓库转移到本地
+>>>>>>>>>>>>>>>>>>>>>
 
 这里推荐使用 GitHub Desktop。如果你已经提前下载，那么请继续阅读。如果你还没有 GitHub Desktop，可前往官网下载。！
 
@@ -49,6 +51,7 @@ User or organization site (个人或企业网站)
 
 
 3. 添加index文件并提交
+>>>>>>>>>>>>>>>>>>>>>>
 
 你只需要在本地仓库文件夹中添加一个简单的 index.html 文件：
 
@@ -58,6 +61,7 @@ User or organization site (个人或企业网站)
 
 
 4. Commit & push 
+>>>>>>>>>>>>>>>>>>
 
 进入 GitHub Desktop，在左侧输入这次改变的 summary 和 discription, 点击 Commit to master 按钮。
 在菜单栏点击 publish branch 按钮，将本地内容 push 到线上 (pushing to origin)。
@@ -68,7 +72,9 @@ User or organization site (个人或企业网站)
 生效之后，访问 username.github.io 就可以看到你上传的页面了，beiyuu.github.io就是一个例子。
 
 
-5. 如何区别 user 和 project 网站 ！
+5. 如何区别 user 和 project 网站 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 点击Admin进入项目管理
 可以看到是这样的： user pages 而普通的项目是这样的，
 
