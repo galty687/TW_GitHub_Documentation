@@ -57,7 +57,7 @@ GitHub用户名建立的username.github.io这样的用户&组织页(站)
 如何区别 user 和 project 网站?
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-*注意：每个用户名下面只能建立一个隶属于个人的 page。但是在其他的 GitHub 项目中，你也可以通过 GitHub Pages 生成你的项目网站，使用名称为 othername.github.io*
+*注意：每个用户名下面只能建立一个隶属于个人的 page。但是在其他的 GitHub 项目中，你也可以通过 GitHub Pages 生成你的项目网站，使用名称为 **othername.github.io***
 
 进入你的 GitHub 仓库，点击 Admin 进入项目管理，可以看到如下设置：
 
@@ -69,7 +69,7 @@ GitHub用户名建立的username.github.io这样的用户&组织页(站)
 
 这些你都不需要完全理解，先来看看 **个人页面** 怎么创建吧！
 
-
+-------------------
 
 Reference
 ===========
@@ -81,6 +81,7 @@ Reference
 .. |githubpages_project_admin| image:: image/githubpages_project_admin.png
 
 
+-----------------
 
 :作者: 蒲蕾颖
 
