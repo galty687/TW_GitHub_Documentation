@@ -3,13 +3,17 @@
 =======================
 
 与GitHub建立好链接之后，就可以方便的使用它提供的Pages服务。
+
 GitHub Pages分两种：
-#. **User or organization site**: GitHub用户名建立的username.github.io这样的用户&组织页（站）
-#. **Project site**: 依附项目的pages
+
+1. **User or organization site**: GitHub用户名建立的username.github.io这样的用户&组织页(站)
+2. **Project site**: 依附项目的pages
 
 
-User or Organization Site
+个人或企业网站
 ==========================
+
+个人或企业网站 User or Organization Site
 
 建立个人博客是用的是第一种，成品形如 beiyuu.github.io 这样的可访问的站。
 在开始以下的步骤前，你需要掌握以下概念并下载相关工具：
@@ -24,11 +28,11 @@ User or Organization Site
 
 
 
-你可以参考 `GitHub Pages官方文档<https://pages.github.com>`_，或参照以下步骤：
+你可以参考 `GitHub Pages官方文档<https://pages.github.com/>`_，或参照以下步骤：
 
 #. 在 GitHub 上建立仓库
 
-进入你的 `GitHub<https://github.com>`_, 创建新的仓库 (repo)，仓库名称为`username.github.io`。
+进入你的 `GitHub<https://github.com/>`_, 创建新的仓库 (repo)，仓库名称为`username.github.io`。
 
 *每个用户名下面只能建立一个隶属于个人的page*
 
@@ -78,7 +82,7 @@ Project Site
 ==============
 
 第二种项目pages和用户pages使用的后台程序是同一套，只不过它的目的是项目的帮助文档等跟项目绑定的内容，所以需要在项目的gh-pages分支上去提交相应的文件，GitHub会自动帮你生成项目pages。
-具体的使用帮助可以参考 `GitHub Pages官方文档<https://pages.github.com>`_
+具体的使用帮助可以参考 `GitHub Pages官方文档<https://pages.github.com/>`_
 
 
 
@@ -88,9 +92,9 @@ _reference
 .. [#] http://beiyuu.com/github-pages
 
 
-.. index| image:: image/index.png
-.. 2_cloneRepo| image:: image/2_cloneRepo.png
-.. desktop-demo| image:: image/desktop-demo.gif
+.. |index| image:: image/index.png
+.. |2_cloneRepo| image:: image/2_cloneRepo.png
+.. |desktop-demo| image:: image/desktop-demo.gif
 
 
 
