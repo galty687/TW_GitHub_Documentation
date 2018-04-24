@@ -53,7 +53,7 @@ User or Organization Site
 
 #. Commit & push 
     进入 GitHub Desktop，在左侧输入这次改变的 summary 和 discription, 点击 Commit to master 按钮。
-    在菜单栏点击 publish branch 按钮，将本地内容 push 到线上。
+    在菜单栏点击 publish branch 按钮，将本地内容 push 到线上 (pushing to origin)。
 
     |desktop-demo|
 
