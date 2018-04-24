@@ -3,18 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-使用 GitHub Pages 建立博客
+如何使用 GitHub Pages 创建博客
 =================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: 使用GitHub Pages建立博客
+   :maxdepth: 3
+   :caption: 使用 GitHub Pages 创建博客
 
-   3_GitHub Pages/使用GitHub Pages建立博客.rst
+   3_GitHub Pages/GitHubPages入门.rst
+   3_GitHub Pages/个人网站.rst
+   3_GitHub Pages/项目网站.rst 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: 
 
     
 Indices and tables
